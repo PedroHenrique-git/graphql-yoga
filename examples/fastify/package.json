@@ -9,7 +9,7 @@
   "dependencies": {
     "fastify": "4.17.0",
     "graphql-yoga": "5.0.0",
-    "pino-pretty": "10.0.0"
+    "pino-pretty": "10.3.0"
   },
   "devDependencies": {
     "@types/node": "18.16.16",
